@@ -12,3 +12,7 @@ Hi, my name is Andrew Hoke and I am a journalism student at Lehigh University. I
 Every year 70 million people fill out their March Madness brackets. For reference, that's like saying if all of France, roughly 70 million people, filled out a bracket on Selection Sunday-that's a lot brackets. Yet, each year every single one of those 70 million people don't fill out a perfect bracket. Someone has to fill out a perfect bracket sometime, right? How safe is Warren Buffet's prize money of one million dollars to anyone who can fill out a perfect bracket, for the rest of their life? Let's explore what is more likely to happen to you than taking home Buffet's one million dollar March Madness challenge.  
 
 ![Final graphic](https://github.com/AndrewHoke/AndrewHoke.github.io/blob/master/March%20Madness%20graphic.png?raw=true)
+
+## Lehigh University Undergraduate Distributuon 
+
+![Chartbuilder](https://github.com/AndrewHoke/AndrewHoke.github.io/blob/master/Day%205%20Lehigh%20students.png?raw=true)
