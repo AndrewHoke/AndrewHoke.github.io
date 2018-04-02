@@ -13,6 +13,6 @@ Every year 70 million people fill out their March Madness brackets. For referenc
 
 ![Final graphic](https://github.com/AndrewHoke/AndrewHoke.github.io/blob/master/March%20Madness%20graphic.png?raw=true)
 
-## Lehigh University Undergraduate Distributuon 
+## Lehigh University Undergraduate Distribution 
 
 ![Chartbuilder](https://github.com/AndrewHoke/AndrewHoke.github.io/blob/master/Day%205%20Lehigh%20students.png?raw=true)
