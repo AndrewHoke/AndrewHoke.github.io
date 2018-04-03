@@ -16,3 +16,9 @@ Every year 70 million people fill out their March Madness brackets. For referenc
 ## Lehigh University Undergraduate Distribution 
 
 ![Chartbuilder](https://github.com/AndrewHoke/AndrewHoke.github.io/blob/master/Day%205%20Lehigh%20students.png?raw=true)
+
+## The Night DeAndre Jordan Broke Twitter
+
+July 8, 2015. The Warriors won their first title about a month ago, the NBA draft has come and gone, yet on July 8, 2015, a random summer's day, the NBA flipped on its back. DeAndre Jordan spurned the Clippers to sign with the Dallas Mavericks-and then he didn't-and then he was back on the Clippers like nothing happened. Except something happened, actually a lot of things happened, to understand the full-story follow the timeline below. 
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1HNAUW3zwObzVZ1hyKLRn8GYa4zQT4CVr7re4SYbchsk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
