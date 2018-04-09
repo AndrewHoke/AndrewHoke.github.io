@@ -26,3 +26,9 @@ July 8, 2015. The Warriors won their first title about a month ago, the NBA draf
 ## Lehigh University Undergraduate Enrollment Distribution by College in Past Ten Years
 
 ![Lehigh undergraduate](https://github.com/AndrewHoke/AndrewHoke.github.io/blob/master/Lehigh_University_Undergraduate_Enrollment_by_College_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true) 
+
+## Unemployment Rates of Three of the Most Populous States
+
+Unemployment rates are often some of the most debated points in all of politics, and have led to entire campaigns focusing on reducing America's unemployment rate. Efforts such as, expanding monetary and fiscal policy, tax cuts, and domesticating business have all been employed in recent years to lessen unemployment. How effective has our government been in reducing unemployment? If you ask our president its never been better, but let's look at the facts ourselves to see if unemployment truly is decreasing among these three states. 
+
+![unemployment rates](https://github.com/AndrewHoke/AndrewHoke.github.io/blob/master/Unemployment_Rates_of_Three_of_the_Most_Populous_States_New_York_California_Texas_Average_chartbuilder.png?raw=true)
