@@ -32,3 +32,8 @@ July 8, 2015. The Warriors won their first title about a month ago, the NBA draf
 Unemployment rates are often some of the most debated points in all of politics, and have led to entire campaigns focusing on reducing America's unemployment rate. Efforts such as, expanding monetary and fiscal policy, tax cuts, and domesticating business have all been employed in recent years to lessen unemployment. How effective has our government been in reducing unemployment? If you ask our president its never been better, but let's look at the facts ourselves to see if unemployment truly is decreasing among these three states. 
 
 ![unemployment rates](https://github.com/AndrewHoke/AndrewHoke.github.io/blob/master/Unemployment_Rates_of_Three_of_the_Most_Populous_States_New_York_California_Texas_Average_chartbuilder.png?raw=true)
+
+## Arts Centers Located in Southside Bethlehem
+
+These locations give Southside Bethlehem residents and people from all over the Lehigh Valley many options to explore their artistic side. 
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1qBMunLCR5eUc_v57lCDWxZUPpzGpriQ1d7HNvI0v&amp;viz=MAP&amp;h=false&amp;lat=40.61395132275258&amp;lng=-75.37206443779883&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
